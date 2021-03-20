@@ -1,2 +1,2 @@
-# frame-metadata
-A set of tools to parse FRAME metadata retrieved from Substrate-based nodes.
+# fabric-metadata
+A set of tools to parse FABRIC metadata retrieved from Substrate-based nodes.
